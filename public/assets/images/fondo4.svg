@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg
+  height="100%"
+  stroke-miterlimit="10"
+  style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;"
+  version="1.1"
+  viewBox="0 0 2880 1800"
+  width="100%"
+  xml:space="preserve"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:vectornator="http://vectornator.io"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+>
+<metadata>
+<vectornator:setting key="IsTimeLapseWatermarkDisabled" value="false" />
+<vectornator:setting key="UndoHistoryDisabled" value="true" />
+<vectornator:setting key="VNDimensionsVisible" value="false" />
+<vectornator:setting key="VNSnapToGuides" value="false" />
+<vectornator:setting key="WDCMYKEnabledKey" value="false" />
+<vectornator:setting key="WDDisplayWhiteBackground" value="false" />
+<vectornator:setting key="WDDynamicGuides" value="false" />
+<vectornator:setting key="WDGuidesVisible" value="false" />
+<vectornator:setting key="WDIsolateActiveLayer" value="false" />
+<vectornator:setting key="WDOutlineMode" value="false" />
+<vectornator:setting key="WDRulersVisible" value="false" />
+<vectornator:setting key="WDSnapToEdges" value="false" />
+<vectornator:setting key="WDSnapToGrid" value="false" />
+<vectornator:setting key="WDSnapToPoints" value="false" />
+<vectornator:setting key="WDUnits" value="Points" />
+</metadata>
+<defs />
+<clipPath id="ArtboardFrame">
+<rect height="1800" width="2880" x="0" y="0" />
+</clipPath>
+<g clip-path="url(#ArtboardFrame)" id="Capa-1" vectornator:layerName="Capa 1">
+<path
+      d="M74.9657 2.4155L-21.7886-7.25845L-43.1453 1788.15C-43.1455 1788.15-71.1539 1811.99 4.25962 1803.07C44.1477 1798.35 812.576 1803.03 812.576 1803.03C812.576 1803.03 921.407 1675.41 808.724 1407.63C696.042 1139.84 584.508 1063.44 361.848 731.897C139.188 400.352 74.9657 2.4155 74.9657 2.4155Z"
+      fill="#ffe4f3"
+      fill-rule="evenodd"
+      opacity="0.71873"
+      stroke="none"
+    />
+<path
+      d="M2292.92 2.07901C2292.92 2.07901 1999.56 251.312 2018.75 703.862C2037.94 1156.41 2369.68 1812.28 2369.68 1812.28L2879.44 1801.03L2881.13 1.4405"
+      fill="#d0bcb2"
+      fill-rule="evenodd"
+      opacity="1"
+      stroke="none"
+    />
+</g>
+</svg>

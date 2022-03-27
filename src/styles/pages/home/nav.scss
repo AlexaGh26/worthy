@@ -1,0 +1,70 @@
+@import '../../variables.scss';
+
+#menu ul li {
+  background-color: #f5f1ef;
+}
+#menu {
+  width: 70%;
+  display: flex;
+  justify-content: center;
+}
+
+#menu ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  cursor: pointer;
+  padding-top: 36px;
+}
+
+#menu ul a {
+  display: block;
+  color: $text-color-coffe-dark;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 15px;
+  padding: 10px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  width: 132px;
+  text-align: center;
+}
+
+#menu ul li {
+  position: relative;
+  float: left;
+  margin: 0;
+  padding: 0;
+  transition: background-color 2s ease;
+}
+
+#menu ul li:hover {
+  background: $background-pink;
+  opacity: 1;
+}
+
+#menu ul ul {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  padding: 0;
+}
+
+#menu ul ul li {
+  float: none;
+  width: 150px;
+}
+
+#menu ul ul a {
+  line-height: 120%;
+  padding: 10px 15px;
+}
+
+#menu ul li:hover > ul {
+  display: block;
+}
+li.option {
+  height: 30px;
+  transition: height 0.3s;
+}
