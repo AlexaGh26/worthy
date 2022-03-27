@@ -7,9 +7,9 @@
     height: 100px;
     display: flex;
     justify-content: space-between;
-    background-color: #f5f1ef;
+    background-color: $backgrpund-yallow;
     border: none;
-
+    position: fixed;
     &--logo {
       margin: 20px 0 0 30px;
       width: 180px;
@@ -17,9 +17,9 @@
   }
   &__main {
     display: block;
+    //background-color: $backgrpund-yallow;
     background-image: url('../../../../public/assets/images/fondo5.svg');
-    -webkit-background-size: cover;
-    background-repeat: no-repeat;
-    height: 100%;
+    background-size: cover;
+    padding-top: 140px;
   }
 }

@@ -1,6 +1,7 @@
 import React from "react";
+import { PublicityComponent } from "../../components/publicity";
 
-const HomeComponent = () => {
+export const HomePage = () => {
   return (
     <section className="container">
       <header className="container__header">
@@ -40,10 +41,13 @@ const HomeComponent = () => {
           </ul>
         </nav>
       </header>
-      <main className="container__main"></main>
+      <main className="container__main">
+        <PublicityComponent></PublicityComponent>
+        <PublicityComponent></PublicityComponent>
+        <PublicityComponent></PublicityComponent>
+        <PublicityComponent></PublicityComponent>
+      </main>
       <footer className="footer"></footer>
     </section>
   );
 };
-
-export default HomeComponent;

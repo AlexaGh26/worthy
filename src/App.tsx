@@ -1,9 +1,9 @@
 import React from "react";
+import { HomePage } from "./app/pages/home/home";
 import "./styles/App.scss";
-import HomeComponent from "./app/pages/home/home";
 
 function App() {
-  return <HomeComponent></HomeComponent>;
+  return <HomePage></HomePage>;
 }
 
 export default App;
